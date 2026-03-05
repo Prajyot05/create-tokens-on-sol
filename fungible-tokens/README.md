@@ -155,3 +155,5 @@ Explanation: Destroys 1,000 tokens from your specific token account, permanently
 spl-token authorize <TOKEN_ADDRESS> mint --disable
 Explanation: Revokes your Mint Authority. Once executed, NO ONE (not even you) can ever mint more of this token. This creates a fixed-supply token, which builds trust with potential buyers/users.
 WARNING: This action is irreversible!
+
+Additional notion doc resource: https://petal-estimate-4e9.notion.site/Creating-a-token-b62f51d3b97e4706b8efd9cf432832e8
